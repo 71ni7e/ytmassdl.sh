@@ -1,5 +1,5 @@
 
-A youtube mass downloader, name says it all. Written as a short bash script to automate downloading mp3 files from videos.
+A youtube mass downloader, name says it all. Written as a short bash script to make downloading mp3 files from videos on youtube faster.
 
 
 **How to install and use:**
