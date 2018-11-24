@@ -9,8 +9,6 @@ cd ytmassdl.sh
 chmod +x ./ytmassdl.sh
 ./ytmassdl.sh [first link] [second link] [third link]
 ```
-post scriptum: you can have as many links as you want.
-
 
 **Dependencies:**
 1. youtube-dl
